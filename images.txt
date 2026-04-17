@@ -6,11 +6,11 @@
 #frooodle/s-pdf:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-redis:7.4.6
-ubuntu:22.04
-openjdk:17-jdk
-openjdk:17-jdk-alpine
-openjdk:21-jdk
-openjdk:21-jdk-alpine
+#redis:7.4.6
+#ubuntu:22.04
+#openjdk:17-jdk
+#openjdk:17-jdk-alpine
+#openjdk:21-jdk
+#openjdk:21-jdk-alpine
 zookeeper:latest
 kafka:latest
